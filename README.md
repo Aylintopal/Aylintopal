@@ -21,7 +21,7 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 * **Çoklu dil desteği**
 * **Git** ile versiyon kontrolü
 
-### Yayınladığım Projeler
+### Yayınlanmış Projeler
 
 #### Filayo
 
