@@ -8,8 +8,6 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 
 ### Teknik Yeterliliklerim
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git)](https://skillicons.dev)
-
 * **Flutter & Dart** ile mobil uygulama geliştirme
 * **State Management:** Bloc Pattern, Provider
 * **RESTful API** entegrasyonları
@@ -20,6 +18,10 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 * **Local veri yönetimi:** Shared Preferences, SQFLite (temel düzeyde deneyim)
 * **Çoklu dil desteği**
 * **Git** ile versiyon kontrolü
+
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git)](https://skillicons.dev)
+
 
 ### Yayınlanmış Projeler
 
