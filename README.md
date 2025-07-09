@@ -6,10 +6,6 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 
 -   💬 Benimle iletişime geçmek için **4ylintopal@gmail.com** adresine e-posta gönderebilirsiniz.
 
-### Benim Hakkımda
-
-[![Aylin Topal'ın Hakkında Kartı](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aylintopal&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ### Teknik Yeterliliklerim
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git)](https://skillicons.dev)
