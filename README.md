@@ -28,14 +28,14 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 Filayo, Avrupa'daki Türk marketlerinin broşür, afiş, video, ilan ve sosyal medya materyallerini tasarlamalarını sağlayan bir mobil uygulamadır.
 
 [App Store'dan İndir](https://apps.apple.com/tr/app/filayo/id6742742794)
-
 <br>
 
 ### İletişim
 
--   💬 Benimle iletişime geçmek için **4ylintopal@gmail.com** adresine e-posta gönderebilirsiniz.
+-   💬 Benimle iletişime geçmek için,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-topal-a0bbb6255)
+[![E-posta](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4ylintopal@gmail.com)
 <br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aylintopal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
