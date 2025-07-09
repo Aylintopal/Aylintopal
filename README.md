@@ -4,8 +4,6 @@
 
 Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve performanslı mobil uygulamalar geliştirmeye odaklanıyorum. Temiz kod yazma, mimari prensiplere bağlı kalma ve kullanıcı deneyimini ön planda tutma konusunda özen gösteririm.
 
--   💬 Benimle iletişime geçmek için **4ylintopal@gmail.com** adresine e-posta gönderebilirsiniz.
-
 ### Teknik Yeterliliklerim
 
 * **Flutter & Dart** ile mobil uygulama geliştirme
@@ -35,8 +33,9 @@ Filayo, Avrupa'daki Türk marketlerinin broşür, afiş, video, ilan ve sosyal m
 
 ### İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-topal-a0bbb6255)
+-   💬 Benimle iletişime geçmek için **4ylintopal@gmail.com** adresine e-posta gönderebilirsiniz.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-topal-a0bbb6255)
 <br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aylintopal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
