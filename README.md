@@ -18,11 +18,11 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 * **Local veri yönetimi:** Shared Preferences, SQFLite (temel düzeyde deneyim)
 * **Çoklu dil desteği**
 * **Git** ile versiyon kontrolü
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git)](https://skillicons.dev)
 
-
+<br>
 ### Yayınlanmış Projeler
 
 #### Filayo
@@ -30,11 +30,11 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 Filayo, Avrupa'daki Türk marketlerinin broşür, afiş, video, ilan ve sosyal medya materyallerini tasarlamalarını sağlayan bir mobil uygulamadır.
 
 [App Store'dan İndir](https://apps.apple.com/tr/app/filayo/id6742742794)
-
+<br>
 ### İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-topal-a0bbb6255)
 
-###
+<br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aylintopal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
