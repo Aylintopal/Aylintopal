@@ -37,4 +37,4 @@ Filayo, Avrupa'daki Türk marketlerinin broşür, afiş, video, ilan ve sosyal m
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aylintopal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![GitHub Katkı Grafiği](https://github-readme-streak-stats.herokuapp.com/?user=aylintopal&theme=radical)](https://git.io/streak-stats)
+[![GitHub Katkı Grafiği](https://github-readme-streak-stats.herokuapp.com/?user=aylintopal&theme=dark)](https://git.io/streak-stats)
