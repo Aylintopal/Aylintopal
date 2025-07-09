@@ -1,16 +1,34 @@
-## Hi there 👋
+# Merhaba, ben Aylin Topal 👋
 
-<!--
-**Aylintopal/Aylintopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hakkımda
 
-Here are some ideas to get you started:
+Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve performanslı mobil uygulamalar geliştirmeye odaklanıyorum. Temiz kod yazma, mimari prensiplere bağlı kalma ve kullanıcı deneyimini ön planda tutma konusunda özen gösteririm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   💬 Benimle iletişime geçmek için **4ylintopal@gmail.com** adresine e-posta gönderebilirsiniz.
+
+### Teknik Yeterliliklerim
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git)](https://skillicons.dev)
+
+* **Flutter & Dart** ile mobil uygulama geliştirme
+* **State Management:** Bloc Pattern, Provider
+* **RESTful API** entegrasyonları
+* **Clean Architecture** ve **MVVM** prensiplerine uygun mimari yapı
+* **Dependency Injection** prensiplerine uygun yazılım mimarisi
+* **Responsive UI** tasarımı ve geliştirme
+* **Firebase**
+* **Local veri yönetimi:** Shared Preferences, SQFLite (temel düzeyde deneyim)
+* **Çoklu dil desteği**
+* **Git** ile versiyon kontrolü
+
+### Yayınladığım Projeler
+
+#### Filayo
+
+Filayo, Avrupa'daki Türk marketlerinin broşür, afiş, video, ilan ve sosyal medya materyallerini tasarlamalarını sağlayan bir mobil uygulamadır.
+
+[App Store'dan İndir](https://apps.apple.com/tr/app/filayo/id6742742794)
+
+### İletişim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-topal-a0bbb6255)
