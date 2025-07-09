@@ -30,6 +30,7 @@ Ankara'da yaşayan bir **Flutter Developer**'ım. Kullanıcı odaklı ve perform
 Filayo, Avrupa'daki Türk marketlerinin broşür, afiş, video, ilan ve sosyal medya materyallerini tasarlamalarını sağlayan bir mobil uygulamadır.
 
 [App Store'dan İndir](https://apps.apple.com/tr/app/filayo/id6742742794)
+
 <br>
 
 ### İletişim
